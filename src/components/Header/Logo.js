@@ -8,7 +8,6 @@ const Logo = () => {
         <div className="w-16 rounded-full overflow-hidden border border-solid border-dark dark:border-light mr-4">
             <Image src={profileImg} alt='Joseph Gateru' className='w-full h-auto rounded-full' />
         </div>
-        <span className="font-bold dark:font-semibold text-2xl">Joseph Gateru</span>
     </Link>
   )
 }
