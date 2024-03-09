@@ -24,11 +24,15 @@ const AboutCoverSection = () => {
           <Cursor cursorColor="#0c5d28" />
         </h2>
         <p className="font-medium capitalize mt-4 text-base">
-          This Mantra Drives My Work As A Passionate Freelancer. I Blend
-          Innovative Technology With Timeless Design For Captivating Digital
-          Experiences. Inspired By Nature And Literature, I'm A Perpetual
-          Learner Embracing Challenges. With Each Project, I Aim To Leave A
-          Lasting Impact—One Pixel At A Time.
+          As a FullStack Junior Web Developer, I specialize in programming and
+          design content creation using the latest web technologies. I am
+          continually excited to utilize new technologies in order to solve
+          problems in the design, development, and deployment phases of web
+          applications. I am skilled in using JavaScript frameworks and
+          libraries like ReactJs and NextJs to create visually appealing user
+          interfaces that are easy for users to navigate. On the backend of web
+          applications, I prefer using NodeJS and ExpressJs to facilitate
+          communication between frontend components and the database.
         </p>
       </div>
     </section>

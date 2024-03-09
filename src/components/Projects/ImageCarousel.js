@@ -33,7 +33,7 @@ const ImageCarousel = ({ images }) => {
       <img
         src={images[currentImageIndex]}
         alt="carousel"
-        className="h-60 w-96"
+        className="h-auto w-full rounded-xl"
       />
     </div>
   );
