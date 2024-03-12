@@ -240,7 +240,7 @@ const AboutMe = () => {
           </h2>
           <div className="text-center flex flex-col">
             <Link
-              href="https://github.com/Ceasor7/Cali-website"
+              href="https://github.com/Ceasor7/CALI_nextjs/tree/main"
               className="font-light dark:font-medium hover:underline"
               target="_blank"
               rel="noopener noreferrer"
@@ -294,7 +294,7 @@ const AboutMe = () => {
             </Link>
           </div>
           <Link
-            href="/portfolio"
+            href="/portfolio3"
             className="font-light dark:font-medium hover:underline"
           >
             See More
@@ -349,6 +349,14 @@ const AboutMe = () => {
               rel="noopener noreferrer"
             >
               GitHub Link
+            </Link>
+            <Link
+              href="https://65f0028ea4d96080377c7e5b--resilient-malabi-1284e0.netlify.app/"
+              className="font-light dark:font-medium hover:underline"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Deployment Link
             </Link>
           </div>
           <Link

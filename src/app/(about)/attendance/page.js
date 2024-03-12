@@ -6,7 +6,7 @@ const Attendance = () => {
     <div className="flex flex-col">
       <div className="m-2 sm:m-10 shadow-2xl dark:shadow-none rounded-xl text-light dark:text-dark">
         <div className="p-7 ">
-          <ImageCarousel images={['/kmf.PNG', '/cali2.PNG', '/kmf3.PNG']} />
+          <ImageCarousel images={['/kta1.PNG', '/kta2.PNG', '/kta3.PNG']} />
         </div>
       </div>
       <div className="mt-4 rounded-2xl bg-dark dark:bg-accentDark/90 m-2 sm:m-10 flex flex-col text-light dark:text-dark">
